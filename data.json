@@ -1,0 +1,33 @@
+{
+  "Knygos": [
+    {
+      "id": "1",
+      "image": "http://www.patogupirkti.lt/out/pictures/z1/alchemikas(2)_z1.jpg",
+      "author": "Paulo Coelho ",
+      "name": "Alchemikas",
+      "about": "Fenomenalios sėkmės sulaukusi prieš 20 metų sukurta brazilų rašytojo Paulo Coelho knyga „Alchemikas“ vis dar laikosi perkamiausių pasaulio knygų sąrašuose. Parduota virš 65 milijonų knygos egzempliorių, pagal šią knygą kuriamas filmas, o pats autorius Paulo Coelho įtrauktas į Gineso rekordų knygą už tai, kad „Alchemikas“ pripažintas romanu, išverstu į daugiausiai pasaulio kalbų."
+    },
+    {
+      "id": "2",
+      "image": "https://thumb.knygos-static.lt/ANRI1_4OxqGQkgA8mTMKbsdgoik=/fit-in/2048x2048/filters:cwatermark(static/wm.png,500,75,30)/images/books/1290177/1538724733_Untitled123.png",
+      "author": "BALTOS leidybos namai ",
+      "name": "AŠ STEBIU TAVE",
+      "about": "Traukinyje Ela Longfild stebi dvi paaugles, flirtuojančias su įtartinais vyrukais, kurie, pasirodo, ką tik išėjo iš kalėjimo. Iš pradžių ketinusi įsikišti ir neleisti merginoms veltis į pavojingą nuotykį, vėliau apsigalvoja."
+    },
+    {
+      "id": "3",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538591646i/42139996._SR1200,630_.jpg",
+      "author": "Oleg Šurajev",
+      "name": "Knygą gali parašyti bet kas",
+      "about": "Pirmoji lietuviška comedy žanro knyga, kurią parašė Lietuvos komikas ir kūrėjas Oleg Šurajev. Be septynių tekstų, knygoje „Knygą gali parašyti bet kas“ rasite net 80 autoriaus kurtų iliustracijų apie gyvenimą ir jo paradoksus bei autoriaus fantazijas."
+    },
+    {
+      "id": "4",
+      "image": "http://www.patogupirkti.lt/out/pictures/z1/liutai-musu-svetainese_z1.jpg",
+      "author": "Liūtai ne avys",
+      "name": "Liūtai mūsų svetainėse",
+      "about": "New York Times bestseleris Liūtai mūsų svetainėse išsamiai nušviečia, kaip katės, mėgstamiausios žmonių kompanionės, užkariavo pasaulį ir mūsų širdis. Naminės katės valdo miegamuosius ir skersgatvius, atšiaurias Antarktidos salas, net kibernetinę erdvę. Ir, priešingai nei šunys, žmonėms neteikia jokios praktinės naudos. Deja, katės iš tikrųjų visai nekompetentingos pelių gaudytojos ir dabar kelia grėsmę daugeliui ekosistemų. Ir vis tiek mes jas mylime."
+    }
+  ]
+}
+
